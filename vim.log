@@ -1,0 +1,489 @@
+
+chdir(/usr/local/share/vim)
+fchdir() to previous dir
+could not source "$VIM/vimrc"
+chdir(/usr/local/share/vim/vim74)
+fchdir() to previous dir
+could not source "$VIMRUNTIME/macmap.vim"
+chdir(/Users/chris)
+fchdir() to previous dir
+sourcing "$HOME/.vimrc"
+Searching for "autoload/pathogen.vim" in "/Users/chris/.vim,/usr/local/share/vim/vimfiles,/usr/local/share/vim/vim74,/usr/local/share/vim/vimfiles/after,/Users/chris/.vim/after"
+Searching for "/Users/chris/.vim/autoload/pathogen.vim"
+chdir(/Users/chris/.vim/autoload)
+fchdir() to previous dir
+line 1: sourcing "/Users/chris/.vim/autoload/pathogen.vim"
+finished sourcing /Users/chris/.vim/autoload/pathogen.vim
+continuing in /Users/chris/.vimrc
+Searching for "ftoff.vim" in "/Users/chris/.vim,/Users/chris/.vim/bundle/ack,/Users/chris/.vim/bundle/command-t,/Users/chris/.vim/bundle/dogmatic,/Users/chris/.vim/bundle/file-line,/Users/chris/.vim/bundle/gist-vim,/Users/chris/.vim/bundle/matchit,/Users/chris/.vim/bundle/mru.vim,/Users/chris/.vim/bundle/nerdcommenter,/Users/chris/.vim/bundle/nerdtree,/Users/chris/.vim/bundle/pbcopy,/Users/chris/.vim/bundle/regbuf.vim,/Users/chris/.vim/bundle/rvm.vim,/Users/chris/.vim/bundle/snipmate.vim,/Users/chris/.vim/bundle/supertab,/Users/chris/.vim/bundle/syntastic,/Users/chris/.vim/bundle/tslime.vim,/Users/chris/.vim/bundle/vim-abolish,/Users/chris/.vim/bundle/vim-coffee-script,/Users/chris/.vim/bundle/vim-cucumber,/Users/chris/.vim/bundle/vim-endwise,/Users/chris/.vim/bundle/vim-extradite,/Users/chris/.vim/bundle/vim-fugitive,/Users/chris/.vim/bundle/vim-git,/Users/chris/.vim/bundle/vim-haml,/Users/chris/.vim/bundle/vim-indentobject,/Users/chris/.vim/bundle/vim-javascript,/Users/chris/.vim/bundle/vim-json,/Users/chri
+Searching for "/Users/chris/.vim/ftoff.vim"
+Searching for "/Users/chris/.vim/bundle/ack/ftoff.vim"
+Searching for "/Users/chris/.vim/bundle/command-t/ftoff.vim"
+Searching for "/Users/chris/.vim/bundle/dogmatic/ftoff.vim"
+Searching for "/Users/chris/.vim/bundle/file-line/ftoff.vim"
+Searching for "/Users/chris/.vim/bundle/gist-vim/ftoff.vim"
+Searching for "/Users/chris/.vim/bundle/matchit/ftoff.vim"
+Searching for "/Users/chris/.vim/bundle/mru.vim/ftoff.vim"
+Searching for "/Users/chris/.vim/bundle/nerdcommenter/ftoff.vim"
+Searching for "/Users/chris/.vim/bundle/nerdtree/ftoff.vim"
+Searching for "/Users/chris/.vim/bundle/pbcopy/ftoff.vim"
+Searching for "/Users/chris/.vim/bundle/regbuf.vim/ftoff.vim"
+Searching for "/Users/chris/.vim/bundle/rvm.vim/ftoff.vim"
+Searching for "/Users/chris/.vim/bundle/snipmate.vim/ftoff.vim"
+Searching for "/Users/chris/.vim/bundle/supertab/ftoff.vim"
+Searching for "/Users/chris/.vim/bundle/syntastic/ftoff.vim"
+Searching for "/Users/chris/.vim/bundle/tslime.vim/ftoff.vim"
+Searching for "/Users/chris/.vim/bundle/vim-abolish/ftoff.vim"
+Searching for "/Users/chris/.vim/bundle/vim-coffee-script/ftoff.vim"
+Searching for "/Users/chris/.vim/bundle/vim-cucumber/ftoff.vim"
+Searching for "/Users/chris/.vim/bundle/vim-endwise/ftoff.vim"
+Searching for "/Users/chris/.vim/bundle/vim-extradite/ftoff.vim"
+Searching for "/Users/chris/.vim/bundle/vim-fugitive/ftoff.vim"
+Searching for "/Users/chris/.vim/bundle/vim-git/ftoff.vim"
+Searching for "/Users/chris/.vim/bundle/vim-haml/ftoff.vim"
+Searching for "/Users/chris/.vim/bundle/vim-indentobject/ftoff.vim"
+Searching for "/Users/chris/.vim/bundle/vim-javascript/ftoff.vim"
+Searching for "/Users/chris/.vim/bundle/vim-json/ftoff.vim"
+Searching for "/Users/chris/.vim/bundle/vim-markdown/ftoff.vim"
+Searching for "/Users/chris/.vim/bundle/vim-markdown-preview/ftoff.vim"
+Searching for "/Users/chris/.vim/bundle/vim-ragtag/ftoff.vim"
+Searching for "/Users/chris/.vim/bundle/vim-rails/ftoff.vim"
+Searching for "/Users/chris/.vim/bundle/vim-repeat/ftoff.vim"
+Searching for "/Users/chris/.vim/bundle/vim-rooter/ftoff.vim"
+Searching for "/Users/chris/.vim/bundle/vim-ruby/ftoff.vim"
+Searching for "/Users/chris/.vim/bundle/vim-ruby-refactoring/ftoff.vim"
+Searching for "/Users/chris/.vim/bundle/vim-rvm/ftoff.vim"
+Searching for "/Users/chris/.vim/bundle/vim-slim/ftoff.vim"
+Searching for "/Users/chris/.vim/bundle/vim-surround/ftoff.vim"
+Searching for "/Users/chris/.vim/bundle/vim-unimpared/ftoff.vim"
+Searching for "/Users/chris/.vim/bundle/vim-vividchalk/ftoff.vim"
+Searching for "/Users/chris/.vim/bundle/vimclojure/ftoff.vim"
+Searching for "/Users/chris/.vim/bundle/vimwiki-1-1-1/ftoff.vim"
+Searching for "/usr/local/share/vim/vimfiles/ftoff.vim"
+Searching for "/usr/local/share/vim/vim74/ftoff.vim"
+chdir(/usr/local/share/vim/vim74)
+fchdir() to previous dir
+line 4: sourcing "/usr/local/share/vim/vim74/ftoff.vim"
+Error detected while processing /usr/local/share/vim/vim74/ftoff.vim:
+line   11:
+E216: No such group or event: filetypedetect *
+finished sourcing /usr/local/share/vim/vim74/ftoff.vim
+continuing in /Users/chris/.vimrc
+Searching for "/usr/local/share/vim/vimfiles/after/ftoff.vim"
+Searching for "/Users/chris/.vim/bundle/snipmate.vim/after/ftoff.vim"
+Searching for "/Users/chris/.vim/after/ftoff.vim"
+Searching for "colors/vividchalk.vim" in "/Users/chris/.vim,/Users/chris/.vim/bundle/ack,/Users/chris/.vim/bundle/command-t,/Users/chris/.vim/bundle/dogmatic,/Users/chris/.vim/bundle/file-line,/Users/chris/.vim/bundle/gist-vim,/Users/chris/.vim/bundle/matchit,/Users/chris/.vim/bundle/mru.vim,/Users/chris/.vim/bundle/nerdcommenter,/Users/chris/.vim/bundle/nerdtree,/Users/chris/.vim/bundle/pbcopy,/Users/chris/.vim/bundle/regbuf.vim,/Users/chris/.vim/bundle/rvm.vim,/Users/chris/.vim/bundle/snipmate.vim,/Users/chris/.vim/bundle/supertab,/Users/chris/.vim/bundle/syntastic,/Users/chris/.vim/bundle/tslime.vim,/Users/chris/.vim/bundle/vim-abolish,/Users/chris/.vim/bundle/vim-coffee-script,/Users/chris/.vim/bundle/vim-cucumber,/Users/chris/.vim/bundle/vim-endwise,/Users/chris/.vim/bundle/vim-extradite,/Users/chris/.vim/bundle/vim-fugitive,/Users/chris/.vim/bundle/vim-git,/Users/chris/.vim/bundle/vim-haml,/Users/chris/.vim/bundle/vim-indentobject,/Users/chris/.vim/bundle/vim-javascript,/Users/chris/.vim/bundle/vim-json
+Searching for "/Users/chris/.vim/colors/vividchalk.vim"
+chdir(/Users/chris/.vim/colors)
+fchdir() to previous dir
+line 20: sourcing "/Users/chris/.vim/colors/vividchalk.vim"
+finished sourcing /Users/chris/.vim/colors/vividchalk.vim
+continuing in /Users/chris/.vimrc
+Searching for "colors/vividchalk.vim" in "/Users/chris/.vim,/Users/chris/.vim/bundle/ack,/Users/chris/.vim/bundle/command-t,/Users/chris/.vim/bundle/dogmatic,/Users/chris/.vim/bundle/file-line,/Users/chris/.vim/bundle/gist-vim,/Users/chris/.vim/bundle/matchit,/Users/chris/.vim/bundle/mru.vim,/Users/chris/.vim/bundle/nerdcommenter,/Users/chris/.vim/bundle/nerdtree,/Users/chris/.vim/bundle/pbcopy,/Users/chris/.vim/bundle/regbuf.vim,/Users/chris/.vim/bundle/rvm.vim,/Users/chris/.vim/bundle/snipmate.vim,/Users/chris/.vim/bundle/supertab,/Users/chris/.vim/bundle/syntastic,/Users/chris/.vim/bundle/tslime.vim,/Users/chris/.vim/bundle/vim-abolish,/Users/chris/.vim/bundle/vim-coffee-script,/Users/chris/.vim/bundle/vim-cucumber,/Users/chris/.vim/bundle/vim-endwise,/Users/chris/.vim/bundle/vim-extradite,/Users/chris/.vim/bundle/vim-fugitive,/Users/chris/.vim/bundle/vim-git,/Users/chris/.vim/bundle/vim-haml,/Users/chris/.vim/bundle/vim-indentobject,/Users/chris/.vim/bundle/vim-javascript,/Users/chris/.vim/bundle/vim-json
+Searching for "/Users/chris/.vim/colors/vividchalk.vim"
+chdir(/Users/chris/.vim/colors)
+fchdir() to previous dir
+line 21: sourcing "/Users/chris/.vim/colors/vividchalk.vim"
+finished sourcing /Users/chris/.vim/colors/vividchalk.vim
+continuing in /Users/chris/.vimrc
+Searching for "filetype.vim" in "/Users/chris/.vim,/Users/chris/.vim/bundle/ack,/Users/chris/.vim/bundle/command-t,/Users/chris/.vim/bundle/dogmatic,/Users/chris/.vim/bundle/file-line,/Users/chris/.vim/bundle/gist-vim,/Users/chris/.vim/bundle/matchit,/Users/chris/.vim/bundle/mru.vim,/Users/chris/.vim/bundle/nerdcommenter,/Users/chris/.vim/bundle/nerdtree,/Users/chris/.vim/bundle/pbcopy,/Users/chris/.vim/bundle/regbuf.vim,/Users/chris/.vim/bundle/rvm.vim,/Users/chris/.vim/bundle/snipmate.vim,/Users/chris/.vim/bundle/supertab,/Users/chris/.vim/bundle/syntastic,/Users/chris/.vim/bundle/tslime.vim,/Users/chris/.vim/bundle/vim-abolish,/Users/chris/.vim/bundle/vim-coffee-script,/Users/chris/.vim/bundle/vim-cucumber,/Users/chris/.vim/bundle/vim-endwise,/Users/chris/.vim/bundle/vim-extradite,/Users/chris/.vim/bundle/vim-fugitive,/Users/chris/.vim/bundle/vim-git,/Users/chris/.vim/bundle/vim-haml,/Users/chris/.vim/bundle/vim-indentobject,/Users/chris/.vim/bundle/vim-javascript,/Users/chris/.vim/bundle/vim-json,/Users/c
+Searching for "/Users/chris/.vim/filetype.vim"
+Searching for "/Users/chris/.vim/bundle/ack/filetype.vim"
+Searching for "/Users/chris/.vim/bundle/command-t/filetype.vim"
+Searching for "/Users/chris/.vim/bundle/dogmatic/filetype.vim"
+Searching for "/Users/chris/.vim/bundle/file-line/filetype.vim"
+Searching for "/Users/chris/.vim/bundle/gist-vim/filetype.vim"
+Searching for "/Users/chris/.vim/bundle/matchit/filetype.vim"
+Searching for "/Users/chris/.vim/bundle/mru.vim/filetype.vim"
+Searching for "/Users/chris/.vim/bundle/nerdcommenter/filetype.vim"
+Searching for "/Users/chris/.vim/bundle/nerdtree/filetype.vim"
+Searching for "/Users/chris/.vim/bundle/pbcopy/filetype.vim"
+Searching for "/Users/chris/.vim/bundle/regbuf.vim/filetype.vim"
+Searching for "/Users/chris/.vim/bundle/rvm.vim/filetype.vim"
+Searching for "/Users/chris/.vim/bundle/snipmate.vim/filetype.vim"
+Searching for "/Users/chris/.vim/bundle/supertab/filetype.vim"
+Searching for "/Users/chris/.vim/bundle/syntastic/filetype.vim"
+Searching for "/Users/chris/.vim/bundle/tslime.vim/filetype.vim"
+Searching for "/Users/chris/.vim/bundle/vim-abolish/filetype.vim"
+Searching for "/Users/chris/.vim/bundle/vim-coffee-script/filetype.vim"
+Searching for "/Users/chris/.vim/bundle/vim-cucumber/filetype.vim"
+Searching for "/Users/chris/.vim/bundle/vim-endwise/filetype.vim"
+Searching for "/Users/chris/.vim/bundle/vim-extradite/filetype.vim"
+Searching for "/Users/chris/.vim/bundle/vim-fugitive/filetype.vim"
+Searching for "/Users/chris/.vim/bundle/vim-git/filetype.vim"
+Searching for "/Users/chris/.vim/bundle/vim-haml/filetype.vim"
+Searching for "/Users/chris/.vim/bundle/vim-indentobject/filetype.vim"
+Searching for "/Users/chris/.vim/bundle/vim-javascript/filetype.vim"
+Searching for "/Users/chris/.vim/bundle/vim-json/filetype.vim"
+Searching for "/Users/chris/.vim/bundle/vim-markdown/filetype.vim"
+Searching for "/Users/chris/.vim/bundle/vim-markdown-preview/filetype.vim"
+Searching for "/Users/chris/.vim/bundle/vim-ragtag/filetype.vim"
+Searching for "/Users/chris/.vim/bundle/vim-rails/filetype.vim"
+Searching for "/Users/chris/.vim/bundle/vim-repeat/filetype.vim"
+Searching for "/Users/chris/.vim/bundle/vim-rooter/filetype.vim"
+Searching for "/Users/chris/.vim/bundle/vim-ruby/filetype.vim"
+Searching for "/Users/chris/.vim/bundle/vim-ruby-refactoring/filetype.vim"
+Searching for "/Users/chris/.vim/bundle/vim-rvm/filetype.vim"
+Searching for "/Users/chris/.vim/bundle/vim-slim/filetype.vim"
+Searching for "/Users/chris/.vim/bundle/vim-surround/filetype.vim"
+Searching for "/Users/chris/.vim/bundle/vim-unimpared/filetype.vim"
+Searching for "/Users/chris/.vim/bundle/vim-vividchalk/filetype.vim"
+Searching for "/Users/chris/.vim/bundle/vimclojure/filetype.vim"
+Searching for "/Users/chris/.vim/bundle/vimwiki-1-1-1/filetype.vim"
+Searching for "/usr/local/share/vim/vimfiles/filetype.vim"
+Searching for "/usr/local/share/vim/vim74/filetype.vim"
+chdir(/usr/local/share/vim/vim74)
+fchdir() to previous dir
+line 51: sourcing "/usr/local/share/vim/vim74/filetype.vim"
+Searching for "ftdetect/*.vim" in "/Users/chris/.vim,/Users/chris/.vim/bundle/ack,/Users/chris/.vim/bundle/command-t,/Users/chris/.vim/bundle/dogmatic,/Users/chris/.vim/bundle/file-line,/Users/chris/.vim/bundle/gist-vim,/Users/chris/.vim/bundle/matchit,/Users/chris/.vim/bundle/mru.vim,/Users/chris/.vim/bundle/nerdcommenter,/Users/chris/.vim/bundle/nerdtree,/Users/chris/.vim/bundle/pbcopy,/Users/chris/.vim/bundle/regbuf.vim,/Users/chris/.vim/bundle/rvm.vim,/Users/chris/.vim/bundle/snipmate.vim,/Users/chris/.vim/bundle/supertab,/Users/chris/.vim/bundle/syntastic,/Users/chris/.vim/bundle/tslime.vim,/Users/chris/.vim/bundle/vim-abolish,/Users/chris/.vim/bundle/vim-coffee-script,/Users/chris/.vim/bundle/vim-cucumber,/Users/chris/.vim/bundle/vim-endwise,/Users/chris/.vim/bundle/vim-extradite,/Users/chris/.vim/bundle/vim-fugitive,/Users/chris/.vim/bundle/vim-git,/Users/chris/.vim/bundle/vim-haml,/Users/chris/.vim/bundle/vim-indentobject,/Users/chris/.vim/bundle/vim-javascript,/Users/chris/.vim/bundle/vim-json,/Users
+Searching for "/Users/chris/.vim/ftdetect/*.vim"
+Searching for "/Users/chris/.vim/bundle/ack/ftdetect/*.vim"
+Searching for "/Users/chris/.vim/bundle/command-t/ftdetect/*.vim"
+Searching for "/Users/chris/.vim/bundle/dogmatic/ftdetect/*.vim"
+Searching for "/Users/chris/.vim/bundle/file-line/ftdetect/*.vim"
+Searching for "/Users/chris/.vim/bundle/gist-vim/ftdetect/*.vim"
+Searching for "/Users/chris/.vim/bundle/matchit/ftdetect/*.vim"
+Searching for "/Users/chris/.vim/bundle/mru.vim/ftdetect/*.vim"
+Searching for "/Users/chris/.vim/bundle/nerdcommenter/ftdetect/*.vim"
+Searching for "/Users/chris/.vim/bundle/nerdtree/ftdetect/*.vim"
+Searching for "/Users/chris/.vim/bundle/pbcopy/ftdetect/*.vim"
+Searching for "/Users/chris/.vim/bundle/regbuf.vim/ftdetect/*.vim"
+Searching for "/Users/chris/.vim/bundle/rvm.vim/ftdetect/*.vim"
+Searching for "/Users/chris/.vim/bundle/snipmate.vim/ftdetect/*.vim"
+Searching for "/Users/chris/.vim/bundle/supertab/ftdetect/*.vim"
+Searching for "/Users/chris/.vim/bundle/syntastic/ftdetect/*.vim"
+Searching for "/Users/chris/.vim/bundle/tslime.vim/ftdetect/*.vim"
+Searching for "/Users/chris/.vim/bundle/vim-abolish/ftdetect/*.vim"
+Searching for "/Users/chris/.vim/bundle/vim-coffee-script/ftdetect/*.vim"
+chdir(/Users/chris/.vim/bundle/vim-coffee-script/ftdetect)
+fchdir() to previous dir
+line 2638: sourcing "/Users/chris/.vim/bundle/vim-coffee-script/ftdetect/coffee.vim"
+finished sourcing /Users/chris/.vim/bundle/vim-coffee-script/ftdetect/coffee.vim
+continuing in /usr/local/share/vim/vim74/filetype.vim
+chdir(/Users/chris/.vim/bundle/vim-coffee-script/ftdetect)
+fchdir() to previous dir
+line 2638: sourcing "/Users/chris/.vim/bundle/vim-coffee-script/ftdetect/eco.vim"
+finished sourcing /Users/chris/.vim/bundle/vim-coffee-script/ftdetect/eco.vim
+continuing in /usr/local/share/vim/vim74/filetype.vim
+Searching for "/Users/chris/.vim/bundle/vim-cucumber/ftdetect/*.vim"
+chdir(/Users/chris/.vim/bundle/vim-cucumber/ftdetect)
+fchdir() to previous dir
+line 2638: sourcing "/Users/chris/.vim/bundle/vim-cucumber/ftdetect/cucumber.vim"
+finished sourcing /Users/chris/.vim/bundle/vim-cucumber/ftdetect/cucumber.vim
+continuing in /usr/local/share/vim/vim74/filetype.vim
+Searching for "/Users/chris/.vim/bundle/vim-endwise/ftdetect/*.vim"
+Searching for "/Users/chris/.vim/bundle/vim-extradite/ftdetect/*.vim"
+Searching for "/Users/chris/.vim/bundle/vim-fugitive/ftdetect/*.vim"
+Searching for "/Users/chris/.vim/bundle/vim-git/ftdetect/*.vim"
+chdir(/Users/chris/.vim/bundle/vim-git/ftdetect)
+fchdir() to previous dir
+line 2638: sourcing "/Users/chris/.vim/bundle/vim-git/ftdetect/git.vim"
+finished sourcing /Users/chris/.vim/bundle/vim-git/ftdetect/git.vim
+continuing in /usr/local/share/vim/vim74/filetype.vim
+Searching for "/Users/chris/.vim/bundle/vim-haml/ftdetect/*.vim"
+chdir(/Users/chris/.vim/bundle/vim-haml/ftdetect)
+fchdir() to previous dir
+line 2638: sourcing "/Users/chris/.vim/bundle/vim-haml/ftdetect/haml.vim"
+finished sourcing /Users/chris/.vim/bundle/vim-haml/ftdetect/haml.vim
+continuing in /usr/local/share/vim/vim74/filetype.vim
+Searching for "/Users/chris/.vim/bundle/vim-indentobject/ftdetect/*.vim"
+Searching for "/Users/chris/.vim/bundle/vim-javascript/ftdetect/*.vim"
+Searching for "/Users/chris/.vim/bundle/vim-json/ftdetect/*.vim"
+chdir(/Users/chris/.vim/bundle/vim-json/ftdetect)
+fchdir() to previous dir
+line 2638: sourcing "/Users/chris/.vim/bundle/vim-json/ftdetect/json.vim"
+finished sourcing /Users/chris/.vim/bundle/vim-json/ftdetect/json.vim
+continuing in /usr/local/share/vim/vim74/filetype.vim
+Searching for "/Users/chris/.vim/bundle/vim-markdown/ftdetect/*.vim"
+chdir(/Users/chris/.vim/bundle/vim-markdown/ftdetect)
+fchdir() to previous dir
+line 2638: sourcing "/Users/chris/.vim/bundle/vim-markdown/ftdetect/markdown.vim"
+finished sourcing /Users/chris/.vim/bundle/vim-markdown/ftdetect/markdown.vim
+continuing in /usr/local/share/vim/vim74/filetype.vim
+Searching for "/Users/chris/.vim/bundle/vim-markdown-preview/ftdetect/*.vim"
+Searching for "/Users/chris/.vim/bundle/vim-ragtag/ftdetect/*.vim"
+Searching for "/Users/chris/.vim/bundle/vim-rails/ftdetect/*.vim"
+Searching for "/Users/chris/.vim/bundle/vim-repeat/ftdetect/*.vim"
+Searching for "/Users/chris/.vim/bundle/vim-rooter/ftdetect/*.vim"
+Searching for "/Users/chris/.vim/bundle/vim-ruby/ftdetect/*.vim"
+chdir(/Users/chris/.vim/bundle/vim-ruby/ftdetect)
+fchdir() to previous dir
+line 2638: sourcing "/Users/chris/.vim/bundle/vim-ruby/ftdetect/ruby.vim"
+finished sourcing /Users/chris/.vim/bundle/vim-ruby/ftdetect/ruby.vim
+continuing in /usr/local/share/vim/vim74/filetype.vim
+Searching for "/Users/chris/.vim/bundle/vim-ruby-refactoring/ftdetect/*.vim"
+Searching for "/Users/chris/.vim/bundle/vim-rvm/ftdetect/*.vim"
+Searching for "/Users/chris/.vim/bundle/vim-slim/ftdetect/*.vim"
+chdir(/Users/chris/.vim/bundle/vim-slim/ftdetect)
+fchdir() to previous dir
+line 2638: sourcing "/Users/chris/.vim/bundle/vim-slim/ftdetect/slim.vim"
+finished sourcing /Users/chris/.vim/bundle/vim-slim/ftdetect/slim.vim
+continuing in /usr/local/share/vim/vim74/filetype.vim
+Searching for "/Users/chris/.vim/bundle/vim-surround/ftdetect/*.vim"
+Searching for "/Users/chris/.vim/bundle/vim-unimpared/ftdetect/*.vim"
+Searching for "/Users/chris/.vim/bundle/vim-vividchalk/ftdetect/*.vim"
+Searching for "/Users/chris/.vim/bundle/vimclojure/ftdetect/*.vim"
+chdir(/Users/chris/.vim/bundle/vimclojure/ftdetect)
+fchdir() to previous dir
+line 2638: sourcing "/Users/chris/.vim/bundle/vimclojure/ftdetect/clojure.vim"
+finished sourcing /Users/chris/.vim/bundle/vimclojure/ftdetect/clojure.vim
+continuing in /usr/local/share/vim/vim74/filetype.vim
+Searching for "/Users/chris/.vim/bundle/vimwiki-1-1-1/ftdetect/*.vim"
+Searching for "/usr/local/share/vim/vimfiles/ftdetect/*.vim"
+Searching for "/usr/local/share/vim/vim74/ftdetect/*.vim"
+Searching for "/usr/local/share/vim/vimfiles/after/ftdetect/*.vim"
+Searching for "/Users/chris/.vim/bundle/snipmate.vim/after/ftdetect/*.vim"
+Searching for "/Users/chris/.vim/after/ftdetect/*.vim"
+finished sourcing /usr/local/share/vim/vim74/filetype.vim
+continuing in /Users/chris/.vimrc
+Searching for "/usr/local/share/vim/vimfiles/after/filetype.vim"
+Searching for "/Users/chris/.vim/bundle/snipmate.vim/after/filetype.vim"
+Searching for "/Users/chris/.vim/after/filetype.vim"
+Searching for "ftplugin.vim" in "/Users/chris/.vim,/Users/chris/.vim/bundle/ack,/Users/chris/.vim/bundle/command-t,/Users/chris/.vim/bundle/dogmatic,/Users/chris/.vim/bundle/file-line,/Users/chris/.vim/bundle/gist-vim,/Users/chris/.vim/bundle/matchit,/Users/chris/.vim/bundle/mru.vim,/Users/chris/.vim/bundle/nerdcommenter,/Users/chris/.vim/bundle/nerdtree,/Users/chris/.vim/bundle/pbcopy,/Users/chris/.vim/bundle/regbuf.vim,/Users/chris/.vim/bundle/rvm.vim,/Users/chris/.vim/bundle/snipmate.vim,/Users/chris/.vim/bundle/supertab,/Users/chris/.vim/bundle/syntastic,/Users/chris/.vim/bundle/tslime.vim,/Users/chris/.vim/bundle/vim-abolish,/Users/chris/.vim/bundle/vim-coffee-script,/Users/chris/.vim/bundle/vim-cucumber,/Users/chris/.vim/bundle/vim-endwise,/Users/chris/.vim/bundle/vim-extradite,/Users/chris/.vim/bundle/vim-fugitive,/Users/chris/.vim/bundle/vim-git,/Users/chris/.vim/bundle/vim-haml,/Users/chris/.vim/bundle/vim-indentobject,/Users/chris/.vim/bundle/vim-javascript,/Users/chris/.vim/bundle/vim-json,/Users/c
+Searching for "/Users/chris/.vim/ftplugin.vim"
+Searching for "/Users/chris/.vim/bundle/ack/ftplugin.vim"
+Searching for "/Users/chris/.vim/bundle/command-t/ftplugin.vim"
+Searching for "/Users/chris/.vim/bundle/dogmatic/ftplugin.vim"
+Searching for "/Users/chris/.vim/bundle/file-line/ftplugin.vim"
+Searching for "/Users/chris/.vim/bundle/gist-vim/ftplugin.vim"
+Searching for "/Users/chris/.vim/bundle/matchit/ftplugin.vim"
+Searching for "/Users/chris/.vim/bundle/mru.vim/ftplugin.vim"
+Searching for "/Users/chris/.vim/bundle/nerdcommenter/ftplugin.vim"
+Searching for "/Users/chris/.vim/bundle/nerdtree/ftplugin.vim"
+Searching for "/Users/chris/.vim/bundle/pbcopy/ftplugin.vim"
+Searching for "/Users/chris/.vim/bundle/regbuf.vim/ftplugin.vim"
+Searching for "/Users/chris/.vim/bundle/rvm.vim/ftplugin.vim"
+Searching for "/Users/chris/.vim/bundle/snipmate.vim/ftplugin.vim"
+Searching for "/Users/chris/.vim/bundle/supertab/ftplugin.vim"
+Searching for "/Users/chris/.vim/bundle/syntastic/ftplugin.vim"
+Searching for "/Users/chris/.vim/bundle/tslime.vim/ftplugin.vim"
+Searching for "/Users/chris/.vim/bundle/vim-abolish/ftplugin.vim"
+Searching for "/Users/chris/.vim/bundle/vim-coffee-script/ftplugin.vim"
+Searching for "/Users/chris/.vim/bundle/vim-cucumber/ftplugin.vim"
+Searching for "/Users/chris/.vim/bundle/vim-endwise/ftplugin.vim"
+Searching for "/Users/chris/.vim/bundle/vim-extradite/ftplugin.vim"
+Searching for "/Users/chris/.vim/bundle/vim-fugitive/ftplugin.vim"
+Searching for "/Users/chris/.vim/bundle/vim-git/ftplugin.vim"
+Searching for "/Users/chris/.vim/bundle/vim-haml/ftplugin.vim"
+Searching for "/Users/chris/.vim/bundle/vim-indentobject/ftplugin.vim"
+Searching for "/Users/chris/.vim/bundle/vim-javascript/ftplugin.vim"
+Searching for "/Users/chris/.vim/bundle/vim-json/ftplugin.vim"
+Searching for "/Users/chris/.vim/bundle/vim-markdown/ftplugin.vim"
+Searching for "/Users/chris/.vim/bundle/vim-markdown-preview/ftplugin.vim"
+Searching for "/Users/chris/.vim/bundle/vim-ragtag/ftplugin.vim"
+Searching for "/Users/chris/.vim/bundle/vim-rails/ftplugin.vim"
+Searching for "/Users/chris/.vim/bundle/vim-repeat/ftplugin.vim"
+Searching for "/Users/chris/.vim/bundle/vim-rooter/ftplugin.vim"
+Searching for "/Users/chris/.vim/bundle/vim-ruby/ftplugin.vim"
+Searching for "/Users/chris/.vim/bundle/vim-ruby-refactoring/ftplugin.vim"
+Searching for "/Users/chris/.vim/bundle/vim-rvm/ftplugin.vim"
+Searching for "/Users/chris/.vim/bundle/vim-slim/ftplugin.vim"
+Searching for "/Users/chris/.vim/bundle/vim-surround/ftplugin.vim"
+Searching for "/Users/chris/.vim/bundle/vim-unimpared/ftplugin.vim"
+Searching for "/Users/chris/.vim/bundle/vim-vividchalk/ftplugin.vim"
+Searching for "/Users/chris/.vim/bundle/vimclojure/ftplugin.vim"
+Searching for "/Users/chris/.vim/bundle/vimwiki-1-1-1/ftplugin.vim"
+Searching for "/usr/local/share/vim/vimfiles/ftplugin.vim"
+Searching for "/usr/local/share/vim/vim74/ftplugin.vim"
+chdir(/usr/local/share/vim/vim74)
+fchdir() to previous dir
+line 51: sourcing "/usr/local/share/vim/vim74/ftplugin.vim"
+finished sourcing /usr/local/share/vim/vim74/ftplugin.vim
+continuing in /Users/chris/.vimrc
+Searching for "/usr/local/share/vim/vimfiles/after/ftplugin.vim"
+Searching for "/Users/chris/.vim/bundle/snipmate.vim/after/ftplugin.vim"
+Searching for "/Users/chris/.vim/after/ftplugin.vim"
+Searching for "indent.vim" in "/Users/chris/.vim,/Users/chris/.vim/bundle/ack,/Users/chris/.vim/bundle/command-t,/Users/chris/.vim/bundle/dogmatic,/Users/chris/.vim/bundle/file-line,/Users/chris/.vim/bundle/gist-vim,/Users/chris/.vim/bundle/matchit,/Users/chris/.vim/bundle/mru.vim,/Users/chris/.vim/bundle/nerdcommenter,/Users/chris/.vim/bundle/nerdtree,/Users/chris/.vim/bundle/pbcopy,/Users/chris/.vim/bundle/regbuf.vim,/Users/chris/.vim/bundle/rvm.vim,/Users/chris/.vim/bundle/snipmate.vim,/Users/chris/.vim/bundle/supertab,/Users/chris/.vim/bundle/syntastic,/Users/chris/.vim/bundle/tslime.vim,/Users/chris/.vim/bundle/vim-abolish,/Users/chris/.vim/bundle/vim-coffee-script,/Users/chris/.vim/bundle/vim-cucumber,/Users/chris/.vim/bundle/vim-endwise,/Users/chris/.vim/bundle/vim-extradite,/Users/chris/.vim/bundle/vim-fugitive,/Users/chris/.vim/bundle/vim-git,/Users/chris/.vim/bundle/vim-haml,/Users/chris/.vim/bundle/vim-indentobject,/Users/chris/.vim/bundle/vim-javascript,/Users/chris/.vim/bundle/vim-json,/Users/chr
+Searching for "/Users/chris/.vim/indent.vim"
+Searching for "/Users/chris/.vim/bundle/ack/indent.vim"
+Searching for "/Users/chris/.vim/bundle/command-t/indent.vim"
+Searching for "/Users/chris/.vim/bundle/dogmatic/indent.vim"
+Searching for "/Users/chris/.vim/bundle/file-line/indent.vim"
+Searching for "/Users/chris/.vim/bundle/gist-vim/indent.vim"
+Searching for "/Users/chris/.vim/bundle/matchit/indent.vim"
+Searching for "/Users/chris/.vim/bundle/mru.vim/indent.vim"
+Searching for "/Users/chris/.vim/bundle/nerdcommenter/indent.vim"
+Searching for "/Users/chris/.vim/bundle/nerdtree/indent.vim"
+Searching for "/Users/chris/.vim/bundle/pbcopy/indent.vim"
+Searching for "/Users/chris/.vim/bundle/regbuf.vim/indent.vim"
+Searching for "/Users/chris/.vim/bundle/rvm.vim/indent.vim"
+Searching for "/Users/chris/.vim/bundle/snipmate.vim/indent.vim"
+Searching for "/Users/chris/.vim/bundle/supertab/indent.vim"
+Searching for "/Users/chris/.vim/bundle/syntastic/indent.vim"
+Searching for "/Users/chris/.vim/bundle/tslime.vim/indent.vim"
+Searching for "/Users/chris/.vim/bundle/vim-abolish/indent.vim"
+Searching for "/Users/chris/.vim/bundle/vim-coffee-script/indent.vim"
+Searching for "/Users/chris/.vim/bundle/vim-cucumber/indent.vim"
+Searching for "/Users/chris/.vim/bundle/vim-endwise/indent.vim"
+Searching for "/Users/chris/.vim/bundle/vim-extradite/indent.vim"
+Searching for "/Users/chris/.vim/bundle/vim-fugitive/indent.vim"
+Searching for "/Users/chris/.vim/bundle/vim-git/indent.vim"
+Searching for "/Users/chris/.vim/bundle/vim-haml/indent.vim"
+Searching for "/Users/chris/.vim/bundle/vim-indentobject/indent.vim"
+Searching for "/Users/chris/.vim/bundle/vim-javascript/indent.vim"
+Searching for "/Users/chris/.vim/bundle/vim-json/indent.vim"
+Searching for "/Users/chris/.vim/bundle/vim-markdown/indent.vim"
+Searching for "/Users/chris/.vim/bundle/vim-markdown-preview/indent.vim"
+Searching for "/Users/chris/.vim/bundle/vim-ragtag/indent.vim"
+Searching for "/Users/chris/.vim/bundle/vim-rails/indent.vim"
+Searching for "/Users/chris/.vim/bundle/vim-repeat/indent.vim"
+Searching for "/Users/chris/.vim/bundle/vim-rooter/indent.vim"
+Searching for "/Users/chris/.vim/bundle/vim-ruby/indent.vim"
+Searching for "/Users/chris/.vim/bundle/vim-ruby-refactoring/indent.vim"
+Searching for "/Users/chris/.vim/bundle/vim-rvm/indent.vim"
+Searching for "/Users/chris/.vim/bundle/vim-slim/indent.vim"
+Searching for "/Users/chris/.vim/bundle/vim-surround/indent.vim"
+Searching for "/Users/chris/.vim/bundle/vim-unimpared/indent.vim"
+Searching for "/Users/chris/.vim/bundle/vim-vividchalk/indent.vim"
+Searching for "/Users/chris/.vim/bundle/vimclojure/indent.vim"
+Searching for "/Users/chris/.vim/bundle/vimwiki-1-1-1/indent.vim"
+Searching for "/usr/local/share/vim/vimfiles/indent.vim"
+Searching for "/usr/local/share/vim/vim74/indent.vim"
+chdir(/usr/local/share/vim/vim74)
+fchdir() to previous dir
+line 51: sourcing "/usr/local/share/vim/vim74/indent.vim"
+finished sourcing /usr/local/share/vim/vim74/indent.vim
+continuing in /Users/chris/.vimrc
+Searching for "/usr/local/share/vim/vimfiles/after/indent.vim"
+Searching for "/Users/chris/.vim/bundle/snipmate.vim/after/indent.vim"
+Searching for "/Users/chris/.vim/after/indent.vim"
+chdir(/usr/local/share/vim/vim74/syntax)
+fchdir() to previous dir
+line 52: sourcing "/usr/local/share/vim/vim74/syntax/syntax.vim"
+Searching for "syntax/synload.vim" in "/Users/chris/.vim,/Users/chris/.vim/bundle/ack,/Users/chris/.vim/bundle/command-t,/Users/chris/.vim/bundle/dogmatic,/Users/chris/.vim/bundle/file-line,/Users/chris/.vim/bundle/gist-vim,/Users/chris/.vim/bundle/matchit,/Users/chris/.vim/bundle/mru.vim,/Users/chris/.vim/bundle/nerdcommenter,/Users/chris/.vim/bundle/nerdtree,/Users/chris/.vim/bundle/pbcopy,/Users/chris/.vim/bundle/regbuf.vim,/Users/chris/.vim/bundle/rvm.vim,/Users/chris/.vim/bundle/snipmate.vim,/Users/chris/.vim/bundle/supertab,/Users/chris/.vim/bundle/syntastic,/Users/chris/.vim/bundle/tslime.vim,/Users/chris/.vim/bundle/vim-abolish,/Users/chris/.vim/bundle/vim-coffee-script,/Users/chris/.vim/bundle/vim-cucumber,/Users/chris/.vim/bundle/vim-endwise,/Users/chris/.vim/bundle/vim-extradite,/Users/chris/.vim/bundle/vim-fugitive,/Users/chris/.vim/bundle/vim-git,/Users/chris/.vim/bundle/vim-haml,/Users/chris/.vim/bundle/vim-indentobject,/Users/chris/.vim/bundle/vim-javascript,/Users/chris/.vim/bundle/vim-json,/U
+Searching for "/Users/chris/.vim/syntax/synload.vim"
+Searching for "/Users/chris/.vim/bundle/ack/syntax/synload.vim"
+Searching for "/Users/chris/.vim/bundle/command-t/syntax/synload.vim"
+Searching for "/Users/chris/.vim/bundle/dogmatic/syntax/synload.vim"
+Searching for "/Users/chris/.vim/bundle/file-line/syntax/synload.vim"
+Searching for "/Users/chris/.vim/bundle/gist-vim/syntax/synload.vim"
+Searching for "/Users/chris/.vim/bundle/matchit/syntax/synload.vim"
+Searching for "/Users/chris/.vim/bundle/mru.vim/syntax/synload.vim"
+Searching for "/Users/chris/.vim/bundle/nerdcommenter/syntax/synload.vim"
+Searching for "/Users/chris/.vim/bundle/nerdtree/syntax/synload.vim"
+Searching for "/Users/chris/.vim/bundle/pbcopy/syntax/synload.vim"
+Searching for "/Users/chris/.vim/bundle/regbuf.vim/syntax/synload.vim"
+Searching for "/Users/chris/.vim/bundle/rvm.vim/syntax/synload.vim"
+Searching for "/Users/chris/.vim/bundle/snipmate.vim/syntax/synload.vim"
+Searching for "/Users/chris/.vim/bundle/supertab/syntax/synload.vim"
+Searching for "/Users/chris/.vim/bundle/syntastic/syntax/synload.vim"
+Searching for "/Users/chris/.vim/bundle/tslime.vim/syntax/synload.vim"
+Searching for "/Users/chris/.vim/bundle/vim-abolish/syntax/synload.vim"
+Searching for "/Users/chris/.vim/bundle/vim-coffee-script/syntax/synload.vim"
+Searching for "/Users/chris/.vim/bundle/vim-cucumber/syntax/synload.vim"
+Searching for "/Users/chris/.vim/bundle/vim-endwise/syntax/synload.vim"
+Searching for "/Users/chris/.vim/bundle/vim-extradite/syntax/synload.vim"
+Searching for "/Users/chris/.vim/bundle/vim-fugitive/syntax/synload.vim"
+Searching for "/Users/chris/.vim/bundle/vim-git/syntax/synload.vim"
+Searching for "/Users/chris/.vim/bundle/vim-haml/syntax/synload.vim"
+Searching for "/Users/chris/.vim/bundle/vim-indentobject/syntax/synload.vim"
+Searching for "/Users/chris/.vim/bundle/vim-javascript/syntax/synload.vim"
+Searching for "/Users/chris/.vim/bundle/vim-json/syntax/synload.vim"
+Searching for "/Users/chris/.vim/bundle/vim-markdown/syntax/synload.vim"
+Searching for "/Users/chris/.vim/bundle/vim-markdown-preview/syntax/synload.vim"
+Searching for "/Users/chris/.vim/bundle/vim-ragtag/syntax/synload.vim"
+Searching for "/Users/chris/.vim/bundle/vim-rails/syntax/synload.vim"
+Searching for "/Users/chris/.vim/bundle/vim-repeat/syntax/synload.vim"
+Searching for "/Users/chris/.vim/bundle/vim-rooter/syntax/synload.vim"
+Searching for "/Users/chris/.vim/bundle/vim-ruby/syntax/synload.vim"
+Searching for "/Users/chris/.vim/bundle/vim-ruby-refactoring/syntax/synload.vim"
+Searching for "/Users/chris/.vim/bundle/vim-rvm/syntax/synload.vim"
+Searching for "/Users/chris/.vim/bundle/vim-slim/syntax/synload.vim"
+Searching for "/Users/chris/.vim/bundle/vim-surround/syntax/synload.vim"
+Searching for "/Users/chris/.vim/bundle/vim-unimpared/syntax/synload.vim"
+Searching for "/Users/chris/.vim/bundle/vim-vividchalk/syntax/synload.vim"
+Searching for "/Users/chris/.vim/bundle/vimclojure/syntax/synload.vim"
+Searching for "/Users/chris/.vim/bundle/vimwiki-1-1-1/syntax/synload.vim"
+Searching for "/usr/local/share/vim/vimfiles/syntax/synload.vim"
+Searching for "/usr/local/share/vim/vim74/syntax/synload.vim"
+chdir(/usr/local/share/vim/vim74/syntax)
+fchdir() to previous dir
+line 19: sourcing "/usr/local/share/vim/vim74/syntax/synload.vim"
+Searching for "colors/vividchalk.vim" in "/Users/chris/.vim,/Users/chris/.vim/bundle/ack,/Users/chris/.vim/bundle/command-t,/Users/chris/.vim/bundle/dogmatic,/Users/chris/.vim/bundle/file-line,/Users/chris/.vim/bundle/gist-vim,/Users/chris/.vim/bundle/matchit,/Users/chris/.vim/bundle/mru.vim,/Users/chris/.vim/bundle/nerdcommenter,/Users/chris/.vim/bundle/nerdtree,/Users/chris/.vim/bundle/pbcopy,/Users/chris/.vim/bundle/regbuf.vim,/Users/chris/.vim/bundle/rvm.vim,/Users/chris/.vim/bundle/snipmate.vim,/Users/chris/.vim/bundle/supertab,/Users/chris/.vim/bundle/syntastic,/Users/chris/.vim/bundle/tslime.vim,/Users/chris/.vim/bundle/vim-abolish,/Users/chris/.vim/bundle/vim-coffee-script,/Users/chris/.vim/bundle/vim-cucumber,/Users/chris/.vim/bundle/vim-endwise,/Users/chris/.vim/bundle/vim-extradite,/Users/chris/.vim/bundle/vim-fugitive,/Users/chris/.vim/bundle/vim-git,/Users/chris/.vim/bundle/vim-haml,/Users/chris/.vim/bundle/vim-indentobject,/Users/chris/.vim/bundle/vim-javascript,/Users/chris/.vim/bundle/vim-json
+Searching for "/Users/chris/.vim/colors/vividchalk.vim"
+chdir(/Users/chris/.vim/colors)
+fchdir() to previous dir
+line 19: sourcing "/Users/chris/.vim/colors/vividchalk.vim"
+Searching for "syntax/syncolor.vim" in "/Users/chris/.vim,/Users/chris/.vim/bundle/ack,/Users/chris/.vim/bundle/command-t,/Users/chris/.vim/bundle/dogmatic,/Users/chris/.vim/bundle/file-line,/Users/chris/.vim/bundle/gist-vim,/Users/chris/.vim/bundle/matchit,/Users/chris/.vim/bundle/mru.vim,/Users/chris/.vim/bundle/nerdcommenter,/Users/chris/.vim/bundle/nerdtree,/Users/chris/.vim/bundle/pbcopy,/Users/chris/.vim/bundle/regbuf.vim,/Users/chris/.vim/bundle/rvm.vim,/Users/chris/.vim/bundle/snipmate.vim,/Users/chris/.vim/bundle/supertab,/Users/chris/.vim/bundle/syntastic,/Users/chris/.vim/bundle/tslime.vim,/Users/chris/.vim/bundle/vim-abolish,/Users/chris/.vim/bundle/vim-coffee-script,/Users/chris/.vim/bundle/vim-cucumber,/Users/chris/.vim/bundle/vim-endwise,/Users/chris/.vim/bundle/vim-extradite,/Users/chris/.vim/bundle/vim-fugitive,/Users/chris/.vim/bundle/vim-git,/Users/chris/.vim/bundle/vim-haml,/Users/chris/.vim/bundle/vim-indentobject,/Users/chris/.vim/bundle/vim-javascript,/Users/chris/.vim/bundle/vim-json,/
+Searching for "/Users/chris/.vim/syntax/syncolor.vim"
+Searching for "/Users/chris/.vim/bundle/ack/syntax/syncolor.vim"
+Searching for "/Users/chris/.vim/bundle/command-t/syntax/syncolor.vim"
+Searching for "/Users/chris/.vim/bundle/dogmatic/syntax/syncolor.vim"
+Searching for "/Users/chris/.vim/bundle/file-line/syntax/syncolor.vim"
+Searching for "/Users/chris/.vim/bundle/gist-vim/syntax/syncolor.vim"
+Searching for "/Users/chris/.vim/bundle/matchit/syntax/syncolor.vim"
+Searching for "/Users/chris/.vim/bundle/mru.vim/syntax/syncolor.vim"
+Searching for "/Users/chris/.vim/bundle/nerdcommenter/syntax/syncolor.vim"
+Searching for "/Users/chris/.vim/bundle/nerdtree/syntax/syncolor.vim"
+Searching for "/Users/chris/.vim/bundle/pbcopy/syntax/syncolor.vim"
+Searching for "/Users/chris/.vim/bundle/regbuf.vim/syntax/syncolor.vim"
+Searching for "/Users/chris/.vim/bundle/rvm.vim/syntax/syncolor.vim"
+Searching for "/Users/chris/.vim/bundle/snipmate.vim/syntax/syncolor.vim"
+Searching for "/Users/chris/.vim/bundle/supertab/syntax/syncolor.vim"
+Searching for "/Users/chris/.vim/bundle/syntastic/syntax/syncolor.vim"
+Searching for "/Users/chris/.vim/bundle/tslime.vim/syntax/syncolor.vim"
+Searching for "/Users/chris/.vim/bundle/vim-abolish/syntax/syncolor.vim"
+Searching for "/Users/chris/.vim/bundle/vim-coffee-script/syntax/syncolor.vim"
+Searching for "/Users/chris/.vim/bundle/vim-cucumber/syntax/syncolor.vim"
+Searching for "/Users/chris/.vim/bundle/vim-endwise/syntax/syncolor.vim"
+Searching for "/Users/chris/.vim/bundle/vim-extradite/syntax/syncolor.vim"
+Searching for "/Users/chris/.vim/bundle/vim-fugitive/syntax/syncolor.vim"
+Searching for "/Users/chris/.vim/bundle/vim-git/syntax/syncolor.vim"
+Searching for "/Users/chris/.vim/bundle/vim-haml/syntax/syncolor.vim"
+Searching for "/Users/chris/.vim/bundle/vim-indentobject/syntax/syncolor.vim"
+Searching for "/Users/chris/.vim/bundle/vim-javascript/syntax/syncolor.vim"
+Searching for "/Users/chris/.vim/bundle/vim-json/syntax/syncolor.vim"
+Searching for "/Users/chris/.vim/bundle/vim-markdown/syntax/syncolor.vim"
+Searching for "/Users/chris/.vim/bundle/vim-markdown-preview/syntax/syncolor.vim"
+Searching for "/Users/chris/.vim/bundle/vim-ragtag/syntax/syncolor.vim"
+Searching for "/Users/chris/.vim/bundle/vim-rails/syntax/syncolor.vim"
+Searching for "/Users/chris/.vim/bundle/vim-repeat/syntax/syncolor.vim"
+Searching for "/Users/chris/.vim/bundle/vim-rooter/syntax/syncolor.vim"
+Searching for "/Users/chris/.vim/bundle/vim-ruby/syntax/syncolor.vim"
+Searching for "/Users/chris/.vim/bundle/vim-ruby-refactoring/syntax/syncolor.vim"
+Searching for "/Users/chris/.vim/bundle/vim-rvm/syntax/syncolor.vim"
+Searching for "/Users/chris/.vim/bundle/vim-slim/syntax/syncolor.vim"
+Searching for "/Users/chris/.vim/bundle/vim-surround/syntax/syncolor.vim"
+Searching for "/Users/chris/.vim/bundle/vim-unimpared/syntax/syncolor.vim"
+Searching for "/Users/chris/.vim/bundle/vim-vividchalk/syntax/syncolor.vim"
+Searching for "/Users/chris/.vim/bundle/vimclojure/syntax/syncolor.vim"
+Searching for "/Users/chris/.vim/bundle/vimwiki-1-1-1/syntax/syncolor.vim"
+Searching for "/usr/local/share/vim/vimfiles/syntax/syncolor.vim"
+Searching for "/usr/local/share/vim/vim74/syntax/syncolor.vim"
+chdir(/usr/local/share/vim/vim74/syntax)
+fchdir() to previous dir
+line 13: sourcing "/usr/local/share/vim/vim74/syntax/syncolor.vim"
+finished sourcing /usr/local/share/vim/vim74/syntax/syncolor.vim
+continuing in /Users/chris/.vim/colors/vividchalk.vim
+Searching for "/usr/local/share/vim/vimfiles/after/syntax/syncolor.vim"
+Searching for "/Users/chris/.vim/bundle/snipmate.vim/after/syntax/syncolor.vim"
+Searching for "/Users/chris/.vim/after/syntax/syncolor.vim"
+Searching for "syntax/syncolor.vim" in "/Users/chris/.vim,/Users/chris/.vim/bundle/ack,/Users/chris/.vim/bundle/command-t,/Users/chris/.vim/bundle/dogmatic,/Users/chris/.vim/bundle/file-line,/Users/chris/.vim/bundle/gist-vim,/Users/chris/.vim/bundle/matchit,/Users/chris/.vim/bundle/mru.vim,/Users/chris/.vim/bundle/nerdcommenter,/Users/chris/.vim/bundle/nerdtree,/Users/chris/.vim/bundle/pbcopy,/Users/chris/.vim/bundle/regbuf.vim,/Users/chris/.vim/bundle/rvm.vim,/Users/chris/.vim/bundle/snipmate.vim,/Users/chris/.vim/bundle/supertab,/Users/chris/.vim/bundle/syntastic,/Users/chris/.vim/bundle/tslime.vim,/Users/chris/.vim/bundle/vim-abolish,/Users/chris/.vim/bundle/vim-coffee-script,/Users/chris/.vim/bundle/vim-cucumber,/Users/chris/.vim/bundle/vim-endwise,/Users/chris/.vim/bundle/vim-extradite,/Users/chris/.vim/bundle/vim-fugitive,/Users/chris/.vim/bundle/vim-git,/Users/chris/.vim/bundle/vim-haml,/Users/chris/.vim/bundle/vim-indentobject,/Users/chris/.vim/bundle/vim-javascript,/Users/chris/.vim/bundle/vim-json,/
+Searching for "/Users/chris/.vim/syntax/syncolor.vim"
+Searching for "/Users/chris/.vim/bundle/ack/syntax/syncolor.vim"
+Searching for "/Users/chris/.vim/bundle/command-t/syntax/syncolor.vim"
+Searching for "/Users/chris/.vim/bundle/dogmatic/syntax/syncolor.vim"
+Searching for "/Users/chris/.vim/bundle/file-line/syntax/syncolor.vim"
+Searching for "/Users/chris/.vim/bundle/gist-vim/syntax/syncolor.vim"
+Searching for "/Users/chris/.vim/bundle/matchit/syntax/syncolor.vim"
+Searching for "/Users/chris/.vim/bundle/mru.vim/syntax/syncolor.vim"
+Searching for "/Users/chris/.vim/bundle/nerdcommenter/syntax/syncolor.vim"
+Searching for "/Users/chris/.vim/bundle/nerdtree/syntax/syncolor.vim"
+Searching for "/Users/chris/.vim/bundle/pbcopy/syntax/syncolor.vim"
+Searching for "/Users/chris/.vim/bundle/regbuf.vim/syntax/syncolor.vim"
+Searching for "/Users/chris/.vim/bundle/rvm.vim/syntax/syncolor.vim"
+Searching for "/Users/chris/.vim/bundle/snipmate.vim/syntax/syncolor.vim"
+Searching for "/Users/chris/.vim/bundle/supertab/syntax/syncolor.vim"
+Searching for "/Users/chris/.vim/bundle/syntastic/syntax/syncolor.vim"
+Searching for "/Users/chris/.vim/bundle/tslime.vim/syntax/syncolor.vim"
+Searching for "/Users/chris/.vim/bundle/vim-abolish/syntax/syncolor.vim"
+Searching for "/Users/chris/.vim/bundle/vim-coffee-script/syntax/syncolor.vim"
+Searching for "/Users/chris/.vim/bundle/vim-cucumber/syntax/syncolor.vim"
+Searching for "/Users/chris/.vim/bundle/vim-endwise/syntax/syncolor.vim"
+Searching for "/Users/chris/.vim/bundle/vim-extradite/syntax/syncolor.vim"
+Searching for "/Users/chris/.vim/bundle/vim-fugitive/syntax/syncolor.vim"
+Searching for "/Users/chris/.vim/bundle/vim-git/syntax/syncolor.vim"
+Searching for "/Users/chris/.vim/bundle/vim-haml/syntax/syncolor.vim"
+Searching for "/Users/chris/.vim/bundle/vim-indentobject/syntax/syncolor.vim"
+Searching for "/Users/chris/.vim/bundle/vim-javascript/syntax/syncolor.vim"
+Searching for "/Users/chris/.vim/bundle/vim-json/syntax/syncolor.vim"
